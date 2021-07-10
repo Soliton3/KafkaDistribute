@@ -1,0 +1,11 @@
+com\example\CallBack.class
+com\example\ProducerRunner.class
+com\example\WriteFileConsumer.class
+com\example\ReadFileProducer.class
+com\example\KafkaProperties.class
+com\example\Producer.class
+com\example\ProducerPartition.class
+com\example\ConsumerRunner.class
+com\example\DemoCallBack.class
+com\example\DynamicAssignor.class
+com\example\Consumer.class
